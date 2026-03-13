@@ -1,12 +1,12 @@
-# Welcome to [Gyansenanee](https://github.com/gyansenanee) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Gyan Singh](https://github.com/gyansenanee) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dipanshu-gupta-849b9b2ba" target="_blank">
+<a href="in/-gyansing6261g7" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:gyansenanee55@gmail.com" target="_blank">
+<a href="mailto:gyansenanee@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
@@ -33,7 +33,7 @@ As a developer, I focus on creating impactful solutions and continuously improvi
 - 💬 Ask me about **Python, GitHub, Projects**
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
-- 📫 Reach me: **gyansenanee55@gmail.com**
+- 📫 Reach me: **gyansenanee@gmail.com**
 - 💪 Building projects to become job-ready
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
